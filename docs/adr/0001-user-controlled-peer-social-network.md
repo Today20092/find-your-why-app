@@ -1,0 +1,3 @@
+# Use a user-controlled peer network instead of an engagement platform
+
+The product will use peer-owned identities and replicated signed data, with a chronological direct-follow feed and optional locally computed positive-trust discovery. This rejects a centralized feed service and behavioral engagement ranking because either would create an operator with both the incentive and ability to profile readers, manipulate reach, monetize attention, and silently break the direct-follow guarantee. The trade-off is that availability depends on willing host peers, usernames are not globally authoritative, and each client must make its own filtering and discovery decisions.
