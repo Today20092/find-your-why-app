@@ -28,6 +28,10 @@ _Avoid_: Interest signal
 A reader's positive, explicit opinion that may contribute to local discovery recommendations.
 _Avoid_: Like, popularity, global reputation
 
+**Recommendation source**:
+An identity whose positive trust choices a reader explicitly allows to supply candidates to their Discovery feed.
+_Avoid_: Trusted follow, influencer
+
 **Direct block**:
 A private local decision to hide an identity and its posts. It does not alter what other readers can access.
 _Avoid_: Ban, takedown
