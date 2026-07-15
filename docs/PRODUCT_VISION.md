@@ -46,7 +46,7 @@ The app avoids centralized behavioral dossiers and keeps private preferences loc
 
 The first release is desktop-first and text-only. It includes local identity creation, a username/display name, signed posts, following, direct trust, direct mute/block, chronological following, and bounded trust-based discovery.
 
-It excludes ads, shopping, engagement analytics, media, global moderation, propagated distrust, global reputation, and claims of globally unique usernames.
+It excludes ads, shopping, engagement analytics, media, protected profiles, global moderation, propagated distrust, global reputation, and claims of globally unique usernames.
 
 ## Decision test
 

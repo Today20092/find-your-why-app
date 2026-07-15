@@ -52,6 +52,10 @@ _Avoid_: CEO, platform owner, central server
 A signed public post currently retrievable from at least one reachable peer.
 _Avoid_: Permanent post
 
+**Protected profile**:
+A publisher whose future posts are readable only by identities they approve. Removing access prevents future reading but cannot erase copies already received.
+_Avoid_: Private account, secret profile
+
 **Censorship resistance**:
 The absence of a central authority able to remove every copy or silently prevent a reachable followed publisher from appearing.
 _Avoid_: Censorship-free, censorship-proof
